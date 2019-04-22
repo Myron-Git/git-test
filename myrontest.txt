@@ -1,5 +1,6 @@
-git test day-1
-myrontest-1
+git test day-2
+myrontest-2
 
-hello world ！ I love you
+hello world ！77777
+
 
